@@ -1,0 +1,11 @@
+- create project with file structure
+- create db from psql
+- db schema
+- relations ranking
+- create seq 
+- add seq 
+- create one model
+- create index file for express server 
+- test with psql 
+- create an insert file 
+
